@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andalex73
-- 👀 I’m interested in Data Analysis, Big Data, AI, Machine Learning.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analysis, Big Data, AI, Machine Learning and Web Design.
+- 🌱 I’m currently learning R and Dart/Flutter
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me - @andrealexMT twitter
 
