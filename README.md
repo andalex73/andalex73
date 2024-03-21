@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, Big Data, AI, Machine Learning and Web Design.
 - 🌱 I’m currently learning R and Dart/Flutter
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me - @andrealexMT twitter
+- 📫 How to reach me - r3tech.com.br
 
 <!---
 andalex73/andalex73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
