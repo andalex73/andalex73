@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andalex73
-- 👀 I’m interested in Data Analysis, Big Data, AI, Machine Learning and Web Design.
-- 🌱 I’m currently learning R and Dart/Flutter
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me - r3tech.com.br
+- 👀 I’m interested in Personal Cyber Security.
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Digital Executive Protection
+- 📫 How to reach me - privael.seg.br
 
 <!---
 andalex73/andalex73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
